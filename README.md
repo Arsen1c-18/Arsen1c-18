@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/tokyonight.svg" alt="Moksh Barapatre" width="455"/>
+<img src="./assets/gruvbox.svg" alt="Moksh Barapatre" width="455"/>
 </div>
 
 <!--
