@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+<img src="./assets/tokyonight.svg" alt="Moksh Barapatre" width="455"/>
+</div>
 
 <!--
 **Arsen1c-18/Arsen1c-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
