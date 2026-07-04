@@ -1,0 +1,146 @@
+<svg viewBox="0 0 680 496" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="accent_mono" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#888888"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <radialGradient id="glow1_mono" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2_mono" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#888888" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#888888" stop-opacity="0"/>
+    </radialGradient>
+    </defs>
+<rect x="0" y="0" width="680" height="496" rx="14" fill="#0a0a0a"/>
+<rect x="0" y="0" width="680" height="496" rx="14" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+<ellipse cx="620" cy="40" rx="220" ry="140" fill="url(#glow1_mono)"/>
+<ellipse cx="60" cy="456" rx="200" ry="120" fill="url(#glow2_mono)"/>
+<clipPath id="clip_mono"><rect x="0" y="0" width="680" height="496" rx="14"/></clipPath>
+<g clip-path="url(#clip_mono)">
+<g transform="translate(585,78)">
+  <g opacity="0.08">
+    <animate attributeName="opacity" values="0.08;1;0.08" keyTimes="0;0.071;1"
+      dur="2.8s" calcMode="discrete" repeatCount="indefinite"/>
+    <circle cx="0" cy="0" r="2.60" fill="#ffffff"/>
+  </g>
+  <g opacity="0.08">
+    <animate attributeName="opacity" values="0.08;1;0.08" keyTimes="0;0.214;1"
+      dur="2.8s" calcMode="discrete" repeatCount="indefinite"/>
+    <circle cx="0" cy="-9" r="2.34" fill="#ffffff"/>
+    <circle cx="-9" cy="0" r="2.34" fill="#ffffff"/>
+    <circle cx="9" cy="0" r="2.34" fill="#ffffff"/>
+    <circle cx="0" cy="9" r="2.34" fill="#ffffff"/>
+  </g>
+  <g opacity="0.08">
+    <animate attributeName="opacity" values="0.08;1;0.08" keyTimes="0;0.357;1"
+      dur="2.8s" calcMode="discrete" repeatCount="indefinite"/>
+    <circle cx="0" cy="-18" r="2.08" fill="#aaaaaa"/>
+    <circle cx="-9" cy="-9" r="2.08" fill="#aaaaaa"/>
+    <circle cx="9" cy="-9" r="2.08" fill="#aaaaaa"/>
+    <circle cx="-18" cy="0" r="2.08" fill="#aaaaaa"/>
+    <circle cx="18" cy="0" r="2.08" fill="#aaaaaa"/>
+    <circle cx="-9" cy="9" r="2.08" fill="#aaaaaa"/>
+    <circle cx="9" cy="9" r="2.08" fill="#aaaaaa"/>
+    <circle cx="0" cy="18" r="2.08" fill="#aaaaaa"/>
+  </g>
+  <g opacity="0.08">
+    <animate attributeName="opacity" values="0.08;1;0.08" keyTimes="0;0.500;1"
+      dur="2.8s" calcMode="discrete" repeatCount="indefinite"/>
+    <circle cx="0" cy="-27" r="1.82" fill="#aaaaaa"/>
+    <circle cx="-9" cy="-18" r="1.82" fill="#aaaaaa"/>
+    <circle cx="9" cy="-18" r="1.82" fill="#aaaaaa"/>
+    <circle cx="-18" cy="-9" r="1.82" fill="#aaaaaa"/>
+    <circle cx="18" cy="-9" r="1.82" fill="#aaaaaa"/>
+    <circle cx="-27" cy="0" r="1.82" fill="#aaaaaa"/>
+    <circle cx="27" cy="0" r="1.82" fill="#aaaaaa"/>
+    <circle cx="-18" cy="9" r="1.82" fill="#aaaaaa"/>
+    <circle cx="18" cy="9" r="1.82" fill="#aaaaaa"/>
+    <circle cx="-9" cy="18" r="1.82" fill="#aaaaaa"/>
+    <circle cx="9" cy="18" r="1.82" fill="#aaaaaa"/>
+    <circle cx="0" cy="27" r="1.82" fill="#aaaaaa"/>
+  </g>
+  <g opacity="0.08">
+    <animate attributeName="opacity" values="0.08;1;0.08" keyTimes="0;0.643;1"
+      dur="2.8s" calcMode="discrete" repeatCount="indefinite"/>
+    <circle cx="0" cy="-36" r="1.56" fill="#555555"/>
+    <circle cx="-9" cy="-27" r="1.56" fill="#555555"/>
+    <circle cx="9" cy="-27" r="1.56" fill="#555555"/>
+    <circle cx="-18" cy="-18" r="1.56" fill="#555555"/>
+    <circle cx="18" cy="-18" r="1.56" fill="#555555"/>
+    <circle cx="-27" cy="-9" r="1.56" fill="#555555"/>
+    <circle cx="27" cy="-9" r="1.56" fill="#555555"/>
+    <circle cx="-36" cy="0" r="1.56" fill="#555555"/>
+    <circle cx="36" cy="0" r="1.56" fill="#555555"/>
+    <circle cx="-27" cy="9" r="1.56" fill="#555555"/>
+    <circle cx="27" cy="9" r="1.56" fill="#555555"/>
+    <circle cx="-18" cy="18" r="1.56" fill="#555555"/>
+    <circle cx="18" cy="18" r="1.56" fill="#555555"/>
+    <circle cx="-9" cy="27" r="1.56" fill="#555555"/>
+    <circle cx="9" cy="27" r="1.56" fill="#555555"/>
+    <circle cx="0" cy="36" r="1.56" fill="#555555"/>
+  </g>
+  <g opacity="0.08">
+    <animate attributeName="opacity" values="0.08;1;0.08" keyTimes="0;0.786;1"
+      dur="2.8s" calcMode="discrete" repeatCount="indefinite"/>
+    <circle cx="0" cy="-45" r="1.30" fill="#555555"/>
+    <circle cx="-9" cy="-36" r="1.30" fill="#555555"/>
+    <circle cx="9" cy="-36" r="1.30" fill="#555555"/>
+    <circle cx="-18" cy="-27" r="1.30" fill="#555555"/>
+    <circle cx="18" cy="-27" r="1.30" fill="#555555"/>
+    <circle cx="-27" cy="-18" r="1.30" fill="#555555"/>
+    <circle cx="27" cy="-18" r="1.30" fill="#555555"/>
+    <circle cx="-36" cy="-9" r="1.30" fill="#555555"/>
+    <circle cx="36" cy="-9" r="1.30" fill="#555555"/>
+    <circle cx="-45" cy="0" r="1.30" fill="#555555"/>
+    <circle cx="45" cy="0" r="1.30" fill="#555555"/>
+    <circle cx="-36" cy="9" r="1.30" fill="#555555"/>
+    <circle cx="36" cy="9" r="1.30" fill="#555555"/>
+    <circle cx="-27" cy="18" r="1.30" fill="#555555"/>
+    <circle cx="27" cy="18" r="1.30" fill="#555555"/>
+    <circle cx="-18" cy="27" r="1.30" fill="#555555"/>
+    <circle cx="18" cy="27" r="1.30" fill="#555555"/>
+    <circle cx="-9" cy="36" r="1.30" fill="#555555"/>
+    <circle cx="9" cy="36" r="1.30" fill="#555555"/>
+    <circle cx="0" cy="45" r="1.30" fill="#555555"/>
+  </g></g>
+<text x="44" y="72" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="34" font-weight="700" fill="#ffffff">Moksh Barapatre</text>
+<text x="44" y="106" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="15.5" fill="#ffffff">Frontend Developer</text>
+<rect x="215.4" y="93" width="8" height="16" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<text x="284" y="106" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="15.5" fill="#6b6b6b">Nagpur, India</text>
+<rect x="44" y="136" width="120" height="3" rx="1.5" fill="url(#accent_mono)"/>
+<text x="44" y="182" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="2.5" fill="#6b6b6b">STACK</text>
+<rect x="44.0" y="204" width="72.3" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="80.2" y="223.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">React</text>
+<rect x="126.3" y="204" width="88.4" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="170.5" y="223.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Next.js</text>
+<rect x="224.7" y="204" width="112.6" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="281.0" y="223.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">TypeScript</text>
+<rect x="347.3" y="204" width="112.6" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="403.6" y="223.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">JavaScript</text>
+<rect x="469.9" y="204" width="128.7" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="534.3" y="223.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Tailwind CSS</text>
+<rect x="44.0" y="244" width="72.3" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="80.2" y="263.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">HTML5</text>
+<rect x="126.3" y="244" width="96.5" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="174.5" y="263.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Three.js</text>
+<rect x="232.8" y="244" width="80.4" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="273.0" y="263.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Framer</text>
+<rect x="323.1" y="244" width="112.6" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="379.4" y="263.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Sanity CMS</text>
+<rect x="445.7" y="244" width="72.3" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="481.9" y="263.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Figma</text>
+<rect x="528.0" y="244" width="56.2" height="30" rx="15" fill="#161616" stroke="#3a3a3a" stroke-width="1"/>
+<text x="556.1" y="263.5" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#e5e5e5" text-anchor="middle">Git</text>
+<text x="44" y="308" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13.5" fill="#6b6b6b">learning backend basics — Node, Express, NestJS</text>
+<line x1="44" y1="342" x2="636" y2="342" stroke="#3a3a3a" stroke-width="1"/>
+<text x="44" y="380" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#6b6b6b">GITHUB</text>
+<text x="44" y="400" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#ffffff">Arsen1c-18</text>
+<text x="304" y="380" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#6b6b6b">LINKEDIN</text>
+<text x="304" y="400" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#b0b0b0">moksh-barapatre</text>
+<text x="44" y="426" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#6b6b6b">EMAIL</text>
+<text x="44" y="446" font-family="'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#888888">barapatremoksh1816[at]gmail.com</text>
+</g>
+</svg>
